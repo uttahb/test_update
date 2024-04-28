@@ -3,8 +3,8 @@
   "name": "new_endpoint",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/test_update.git",
+    "ssh": "git@github.com:uttahb/test_update.git",
     "branch": "block_new_endpoint"
   },
   "parentBlockIDs": [
