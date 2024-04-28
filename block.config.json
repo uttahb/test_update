@@ -1,0 +1,21 @@
+{
+  "name": "test_update",
+  "type": "package",
+  "blockId": "mQjN-BUvorU3ivu6DEg_x",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_test_update"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "new_endpoint": {
+      "directory": "new_endpoint"
+    }
+  }
+}

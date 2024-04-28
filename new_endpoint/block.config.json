@@ -1,0 +1,20 @@
+{
+  "blockId": "TBaHOsWm2V0MHLp6jMVo3",
+  "name": "new_endpoint",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_new_endpoint"
+  },
+  "parentBlockIDs": [
+    "mQjN-BUvorU3ivu6DEg_x"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
